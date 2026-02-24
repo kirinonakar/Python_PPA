@@ -5,9 +5,6 @@ echo.
 
 call .\.venv\Scripts\activate
 
-:: Move to the application directory
-cd /d "%~dp0portfolio_app"
-
 :: Check if streamlit is installed
 where streamlit >nul 2>nul
 if %errorlevel% neq 0 (
