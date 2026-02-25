@@ -6,6 +6,8 @@
 
 A sophisticated, interactive financial tool for backtesting, optimizing, and comparing multiple investment portfolios. Built with **Python** and **Streamlit**, this application provides professional-grade analytics for both individual and institutional investors.
 
+![UI Screenshot](screenshot2.png)
+
 ## 🚀 Key Features
 
 ### 1. Multi-Portfolio Comparison
